@@ -1,4 +1,4 @@
-/*
+/**
 @file main.c
 @brief C library implementation that solves the problem Order (Infoarena) using Binary Indexed trees
 @author Theodora Danciulescu
